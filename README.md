@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MassiveNoobie, it's true.
+- 👋 Hi, I’m a @MassiveNoobie on github, it's true.
 - 👀 I’m interested in data, starting stuff, and having free time.
 - 🌱 I’m currently learning nodejs, python, and frontend development.
 - 💞️ I’m looking to collaborate on ideas that i create with others.
