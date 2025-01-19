@@ -1,7 +1,6 @@
 - 👋 Hi, I’m a @MassiveNoobie on github, it's true.
-- 👀 I’m interested in data, starting stuff, and having free time.
-- 🌱 I’m currently learning a lot of various langauges but only able to share a little here.
-- 💞️ I’m looking to collaborate on ideas that i draw on paper, then create with others.
+- 🌱 I’m currently learning a lot but only able to share a little here.
+- 💞️ I’m looking to focus on ideas that i draw on paper, then create with others.
 - 📫 How to reach me, find me https://www.linkedin.com/in/tableau-consulting/.
 
 <!---
