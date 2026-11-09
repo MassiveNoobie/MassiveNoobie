@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-labelledby="title description">
   <title id="title">Tyler Garrett · @MassiveNoobie</title>
-  <desc id="description">Tyler's face drawn with ASCII characters. Founder at dev3lop in Austin, Texas. Professional work includes platform engineering, full-stack engineering, and software management. Side projects include the n0is C++ data engine and desktop MIDI tools.</desc>
+  <desc id="description">Tyler's face drawn with ASCII characters. Founder at dev3lop in Austin, Texas, and co-founder at Next Layer in Orlando, Florida. Professional work includes platform engineering, full-stack engineering, and software management. Side project: the n0is C++ data engine.</desc>
   <defs>
     <linearGradient id="terminal" x2="1" y2="1">
       <stop stop-color="#121C25"/>
@@ -2018,16 +2018,16 @@
       <text y="19" fill="#F3A76B" font-size="16" font-weight="700">tyler@MassiveNoobie</text>
       <text y="64" fill="#F0F4F4" font-size="36" font-weight="700" letter-spacing="-1.2">Tyler Garrett</text>
       <text y="90" fill="#AABBC4" font-size="15">Founder at dev3lop · Austin, TX</text>
-      <path d="M0 111H500" stroke="#2D3B46"/>
-      <text y="141" fill="#65C8AC" font-size="12" font-weight="700" letter-spacing="1.7">PROFESSIONAL WORK</text>
+      <text y="112" fill="#AABBC4" font-size="15">Co-founder at Next Layer · Orlando, FL</text>
+      <path d="M0 130H500" stroke="#2D3B46"/>
+      <text y="156" fill="#65C8AC" font-size="12" font-weight="700" letter-spacing="1.7">PROFESSIONAL WORK</text>
       <g fill="#E5EBEF" font-size="18" font-weight="700">
-        <text y="172">Platform engineering</text>
-        <text y="201">Full-stack engineering</text>
-        <text y="230">Software manager</text>
+        <text y="184">Platform engineering</text>
+        <text y="212">Full-stack engineering</text>
+        <text y="240">Software manager</text>
       </g>
-      <text y="273" fill="#F3A76B" font-size="12" font-weight="700" letter-spacing="1.7">SIDE PROJECTS</text>
-      <text y="298" fill="#C6D2D8" font-size="14">n0is / C++ data engine and analytics</text>
-      <text y="321" fill="#C6D2D8" font-size="14">Audio / desktop MIDI tools</text>
+      <text y="277" fill="#F3A76B" font-size="12" font-weight="700" letter-spacing="1.7">SIDE PROJECTS</text>
+      <text y="303" fill="#C6D2D8" font-size="14">n0is / C++ data engine and analytics</text>
     </g>
   </g>
   <rect x="1" y="1" width="958" height="418" rx="10" fill="none" stroke="#3D515D"/>

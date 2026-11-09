@@ -1,7 +1,7 @@
 <!-- ASCII portrait drawn from Tyler's public DEV profile photo. https://dev.to/itylergarrett -->
 <picture>
-  <source media="(max-width: 640px)" srcset="assets/profile-mobile.svg">
-  <img src="assets/profile.svg" width="960" alt="ASCII portrait of Tyler Garrett, founder at dev3lop in Austin. Professional work includes platform engineering, full-stack engineering, and software management. Side projects include the n0is C++ data engine and desktop MIDI tools.">
+  <source media="(max-width: 640px)" srcset="assets/profile-card-mobile.svg">
+  <img src="assets/profile-card.svg" width="960" alt="ASCII portrait of Tyler Garrett, founder at dev3lop in Austin, TX, and co-founder at Next Layer in Orlando, FL. Professional work includes platform engineering, full-stack engineering, and software management. Side project: the n0is C++ data engine.">
 </picture>
 
 [dev3lop](https://dev3lop.com/) · [Client work](https://dev3lop.com/work/) · [Contact](https://t.j7.is/contact)
