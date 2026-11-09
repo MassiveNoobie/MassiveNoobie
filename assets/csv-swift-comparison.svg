@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 450" width="960" height="450" role="img" aria-labelledby="title description">
+  <title id="title">The CSV timing gap narrowed</title>
+  <desc id="description">Three descriptive comparisons from Table 1 of Ports as Instruments. For one million synthetic CSV rows, the historical n0is C++ load time was 2.10 times the Swift time. The historical measurement used a different C++ revision and timing procedure. In a shared repeated-load harness on one Apple M5 Max, the ratio of medians was 1.33 when C++ built three dictionaries and 1.08 when both builds made one dictionary. Equal times correspond to a ratio of 1.00. Source: n0.is/research/ports-as-instruments.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#14212B"/>
+      <stop offset=".55" stop-color="#0B121A"/>
+      <stop offset="1" stop-color="#111C24"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#A0B5BC" stroke-opacity=".10"/>
+    </pattern>
+  </defs>
+
+  <rect x=".5" y=".5" width="959" height="449" rx="19" fill="url(#background)" stroke="#2C404A"/>
+  <rect x=".5" y=".5" width="959" height="449" rx="19" fill="url(#grid)"/>
+  <path d="M38 1H179" stroke="#F3A76B" stroke-width="2" stroke-linecap="round"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">
+    <text x="40" y="45" fill="#F3A76B" font-weight="700" letter-spacing="1.8">&gt;_ N0IS RESEARCH</text>
+    <text x="920" y="45" fill="#AEC0C6" text-anchor="end" letter-spacing="1.6">SWIFT PORT STUDY</text>
+    <text x="42" y="135" fill="#BACBD0">1M synthetic CSV rows · shared harness on one Apple M5 Max</text>
+  </g>
+  <text x="38" y="104" fill="#EDF4F4" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="54" font-weight="750" letter-spacing="-2.1">The CSV timing gap narrowed.</text>
+
+  <rect x="40.5" y="158.5" width="879" height="232" rx="11" fill="#101B25" stroke="#2C404A"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#B3C5CB">
+    <text x="61" y="187" letter-spacing=".65">N0IS C++ LOAD TIME ÷ SWIFT LOAD TIME</text>
+    <text x="358" y="208" text-anchor="middle">0</text>
+    <text x="584" y="208" text-anchor="middle" fill="#EDF4F4">1.00× equal time</text>
+  </g>
+
+  <g fill="#20313C" aria-hidden="true">
+    <rect x="358" y="224" width="475" height="16" rx="3"/>
+    <rect x="358" y="284" width="475" height="16" rx="3"/>
+    <rect x="358" y="344" width="475" height="16" rx="3"/>
+  </g>
+  <g aria-hidden="true">
+    <rect x="358" y="224" width="474.6" height="16" rx="3" fill="#F3A76B"/>
+    <rect x="358" y="284" width="300.58" height="16" rx="3" fill="#65C8AC"/>
+    <rect x="358" y="344" width="244.08" height="16" rx="3" fill="#65C8AC"/>
+    <path d="M584 216V370" stroke="#EDF4F4" stroke-opacity=".9" stroke-width="1.5" stroke-dasharray="4 4"/>
+  </g>
+
+  <g fill="#EDF4F4" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="22" font-weight="670">
+    <text x="61" y="232">Historical result</text>
+    <text x="61" y="292">Shared harness</text>
+    <text x="61" y="352">Same dictionary count</text>
+  </g>
+  <g fill="#BACBD0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="16">
+    <text x="61" y="252">Different C++ revision and clock</text>
+    <text x="61" y="312">C++ built three dictionaries</text>
+    <text x="61" y="372">Both built one dictionary</text>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" text-anchor="end">
+    <text x="899" y="239" fill="#F3A76B">2.10×</text>
+    <text x="899" y="299" fill="#65C8AC">1.33×</text>
+    <text x="899" y="359" fill="#65C8AC">1.08×</text>
+  </g>
+
+  <path d="M40 405H920" stroke="#2C404A"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+    <text x="40" y="430" fill="#BACBD0">TABLE 1 / SHARED-HARNESS RATIOS USE MEDIANS</text>
+    <text x="920" y="430" fill="#65C8AC" text-anchor="end">n0.is/research/ports-as-instruments</text>
+  </g>
+</svg>
